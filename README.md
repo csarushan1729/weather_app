@@ -42,7 +42,4 @@ If it's not working, you can use the fallback at [clim8.vercel.app](https://clim
 
 clim8 currently uses OpenWeather API v2.5 for weather data and v1.0 for geocoding. Future updates to the OpenWeather API may introduce changes that affect compatibility. If newer API versions are released, updating the endpoints and data handling logic may be required.
 
-## Acknowledgments
 
-- Weather data: [OpenWeather](https://openweathermap.org/)
-- Weather icons: [basmilius/weather-icons](https://github.com/basmilius/weather-icons)
